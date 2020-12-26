@@ -1,0 +1,71 @@
+body{
+	margin: 0;
+	font-family: Helvetica;
+	font-size: 15px;
+	background-color:navajowhite;
+	
+}
+
+header{
+	background-color: salmon;
+	text-align: center;
+	padding-top: 30px;
+	padding-bottom: 5px;
+}
+
+h1, h2{
+	font-family: 'Lumos', cursive;
+}
+header h1{
+	color: darkred;
+	font-size: 50px;
+	font-family: Lumos;
+
+}
+
+header img{
+	border-radius: 700px;
+    width: 200px;
+    border: 15px solid navajowhite;
+	padding-top: 15px;
+	padding-bottom: 15px;
+	padding-left: 15px;
+	padding-right: 15px;
+}
+
+main{
+	max-width: 900px;
+	margin: 0 auto;
+	padding: 0 20px
+}
+
+main img{
+	max-width: 100%;
+}
+
+h2{
+	font-size: 30px;
+	color: darkred;
+}
+
+a{
+	color: darkred;
+
+}
+a:hover{
+	color: white;
+}
+
+footer{
+	background-color: salmon;
+	text-align: center;
+	color: white;
+}
+
+p.caption{
+	color: black;
+	font-style: italic;
+	font-style: bold;
+	text-transform: center;
+	opacity: 30%;
+}
